@@ -1,7 +1,5 @@
 # conventer-to-MP3
 
-Here's the translation:
-
 **Windows:**
 1. Go to the official FFmpeg download page. https://www.gyan.dev/ffmpeg/builds/
 2. Scroll to "release builds" -> download "ffmpeg-release-essentials.zip 86 MB .ver .sha256".
